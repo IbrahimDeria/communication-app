@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IbrahimDeria/communication-app/static/css/main.073c9b0a.css",
-    "main.js": "/IbrahimDeria/communication-app/static/js/main.01418051.js",
-    "static/js/787.f758ea41.chunk.js": "/IbrahimDeria/communication-app/static/js/787.f758ea41.chunk.js",
-    "static/media/logo.svg": "/IbrahimDeria/communication-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/IbrahimDeria/communication-app/index.html",
-    "main.073c9b0a.css.map": "/IbrahimDeria/communication-app/static/css/main.073c9b0a.css.map",
-    "main.01418051.js.map": "/IbrahimDeria/communication-app/static/js/main.01418051.js.map",
-    "787.f758ea41.chunk.js.map": "/IbrahimDeria/communication-app/static/js/787.f758ea41.chunk.js.map"
+    "main.css": "/communication-app/static/css/main.073c9b0a.css",
+    "main.js": "/communication-app/static/js/main.a5028a46.js",
+    "static/js/787.f758ea41.chunk.js": "/communication-app/static/js/787.f758ea41.chunk.js",
+    "static/media/logo.svg": "/communication-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/communication-app/index.html",
+    "main.073c9b0a.css.map": "/communication-app/static/css/main.073c9b0a.css.map",
+    "main.a5028a46.js.map": "/communication-app/static/js/main.a5028a46.js.map",
+    "787.f758ea41.chunk.js.map": "/communication-app/static/js/787.f758ea41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.01418051.js"
+    "static/js/main.a5028a46.js"
   ]
 }
